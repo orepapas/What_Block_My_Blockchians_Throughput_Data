@@ -1,0 +1,11 @@
+Filesystem     1K-blocks    Used Available Use% Mounted on
+udev            32562636       0  32562636   0% /dev
+tmpfs            6514956    1032   6513924   1% /run
+/dev/nvme1n1p1   8065444 5467300   2581760  68% /
+tmpfs           32574768       0  32574768   0% /dev/shm
+tmpfs               5120       0      5120   0% /run/lock
+tmpfs           32574768       0  32574768   0% /sys/fs/cgroup
+/dev/loop0         91264   91264         0 100% /snap/core/8268
+/dev/loop1         18432   18432         0 100% /snap/amazon-ssm-agent/1480
+/dev/nvme0n1    16382844  259360  15268240   2% /data
+tmpfs            6514952       0   6514952   0% /run/user/1000
